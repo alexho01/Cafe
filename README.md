@@ -1,5 +1,17 @@
-This Java-based Café Menu Ordering System allows users to browse and order from categorized menu sections such as Hot Coffee, Cold Drinks, Iced Tea, and Bakery items. Customers can select item sizes, quantities, and receive a full receipt detailing the subtotal, 13% tax (HST), and total. The system supports dynamic user input, including a universal "done" command to complete an order from any point. It generates timestamped receipts saved to local files for recordkeeping. The program uses object-oriented design and includes robust input validation, ensuring a smooth and user-friendly ordering experience via the terminal.
+# ☕ Java Café Menu Ordering System
 
+This project is a **Java-based Café Ordering System** that allows customers to browse and order from categorized menu sections such as **Hot Coffee, Cold Drinks, Iced Tea, and Bakery items**. The system provides a smooth, interactive ordering experience directly through the terminal.
+
+---
+
+## 🔑 Key Features
+- **Categorized Menus** – Organized sections for Hot Coffee, Cold Drinks, Iced Tea, and Bakery items  
+- **Customizable Orders** – Choose item sizes, quantities, and adjust selections dynamically  
+- **Receipt Generation** – Provides a detailed receipt with **subtotal, 13% HST tax, and total**  
+- **Timestamped Records** – Receipts are automatically saved to local files for recordkeeping  
+- **Universal `done` Command** – End an order at any point with a single keyword  
+- **Object-Oriented Design** – Built with clean modular classes for scalability  
+- **Robust Input Validation** – Prevents invalid selections and ensures error-free ordering  
 Cafe Example:
 
 Ordering:
